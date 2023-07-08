@@ -1,0 +1,32 @@
+.btn-primary {
+
+background-color: #2596be;
+
+border-color: #2596be;
+
+}
+
+.hp-bar-big .beat[data-v-d2b93223] {
+
+display: inline-block;
+
+background-color: #2596be ;
+
+border-radius: 50rem;
+
+}
+
+.overall-status .ok[data-v-cae9ad4b] {
+
+color: #2596be;
+
+}
+
+
+.bg-primary {
+
+background-color: #2596be !important;
+
+border-color: #2596be;
+
+}
